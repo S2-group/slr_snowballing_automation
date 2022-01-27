@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 ```
 # Set up Zotero stuff.
 
-Follow (this)[https://pypi.org/project/pyzotero/] to set you IDs and Keys. Everything can be set in the *configuration.cfg* file.
+Follow [this](https://pypi.org/project/pyzotero/) to get you IDs and Keys. Everything must be set in the *configuration.cfg* file.
 Note that you need to create a group only for Snowballing.
 
 # Run the crawler.
