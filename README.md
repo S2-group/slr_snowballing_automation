@@ -1,4 +1,4 @@
-# slr_snowballing_automation
+# SLR Snowballing Automation (Selenium)
 This repository provides artifacts for automating the snowballing search.
 
 # Before starting 
