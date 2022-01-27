@@ -1,0 +1,4 @@
+selenium>=3.141.0
+scrapy>=2.3.0
+pyzotero>=1.5.1
+bibtexparser>=1.2.0
