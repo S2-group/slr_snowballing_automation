@@ -1,15 +1,15 @@
 # SLR Snowballing Automation (Selenium)
 This repository provides artifacts for automating the snowballing search.
 
-# Before starting 
+# Before Starting 
 
-### Download the correct Selenium Chrome Driver and install the requirements.
+### Download the Correct Selenium Chrome Driver and Install the Requirements.
 ```sh
 $ ./download-driver.sh
 $ pip install -r requirements.txt
 ```
 
-# Provide a list of primary studies link.
+# Provide a List of Primary Studies
 ```
 ./primary_studies.txt
 ```
@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 Follow [this](https://pypi.org/project/pyzotero/) to get you IDs and Keys. Everything must be set in the *configuration.cfg* file.
 Note that you need to create a group only for Snowballing.
 
-# Run the crawler.
+# Run the Crawler
 ```
 python3 snowballing_crawler.py
 ```
