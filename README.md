@@ -1,6 +1,8 @@
 # SLR Snowballing Automation (Selenium+Zotero)
 This repository provides artifacts for automating the snowballing search.
 
+<span style="color: red;">Before moving forward, please, check [this](https://github.com/ferru97/PyPaperBot).</span>
+
 # Before Starting 
 
 ### Download the Correct Selenium Chrome Driver and Install the Requirements.
